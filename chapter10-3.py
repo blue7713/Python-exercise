@@ -19,4 +19,4 @@ except BigNumberError as err: # 사용자 정의 에러
     print("에러가 발생하였습니다. 한 자리 숫자만 입력하세요.")
     print(err)
 finally: # 에러와 관계없이 무조건 실행
-    print("계산기를 이용해 주셔서 감사합니다.")
+    print("계산기를 이용해 주셔서 감사합니다.") 
